@@ -36,7 +36,7 @@ onValue(shoppingListInDB,function(snapshot) {
 
     }
     else{
-        shopList.innerHTML = "No items here...yet"
+        shopList.innerHTML = "Yay! No more tasks left!"
     }
     
 })
